@@ -1,0 +1,22 @@
+li{
+  list-style-type: none;
+}
+
+h1{
+  text-align: center;
+}
+
+#main, #dropDown{text-align:center;}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+}
+
+h3{ padding-left: 30px;}
+
+table{
+  padding-left: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
